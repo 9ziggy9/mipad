@@ -1,0 +1,2 @@
+* mipad
+I am absolutely fed up with the poor quality of dropdown/scratchpads in window managers, so I am starting this project to come up with a better solution.
